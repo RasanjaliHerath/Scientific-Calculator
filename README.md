@@ -10,3 +10,4 @@ The Scientific Calculator is a Java-based application that provides a graphical 
 - **Expression Handling**: Supports complex expressions with operator precedence.
 
 
+![cal](https://github.com/user-attachments/assets/616b80b7-5658-456f-890f-e996ea672570)
